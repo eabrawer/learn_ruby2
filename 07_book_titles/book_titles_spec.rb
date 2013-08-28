@@ -1,4 +1,4 @@
-require 'book'
+require 'Book'
 
 describe Book do
 
